@@ -1,4 +1,4 @@
-Hai repository ini akan gw isi dengan codingan-codingan sederhana Python
+Hai repository ini akan gw isi dengan codingan-codingan sederhana
 yang dipelajari di Sekolah gw (Masih SMK btw :b)
 
 Mungkin kedepannya akan bisa berguna untuk gw kuliah nanti
