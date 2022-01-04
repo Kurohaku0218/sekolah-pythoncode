@@ -1,6 +1,6 @@
 /*
 Membuat bangun datar persegi
-menggunakan Perulangan Loop 
+menggunakan Loop For 
 */
 
 #include<iostream>
