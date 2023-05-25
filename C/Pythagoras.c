@@ -10,7 +10,8 @@ Rev1 at 20:21 WIB
 
 int main() {
 
-    int a, b, c, ulang;
+    int a, b, c;
+    int ulang = 0;
     char lanjut = 'y';
 
     while(lanjut == 'y'){
@@ -47,7 +48,8 @@ int main() {
     }
 
     printf("Terima Kasih sudah menggunakan program ini ^_^\n");
-    printf("Semoga terbantu");
+    printf("Semoga terbantu\n");
+    printf("Kamu menggunakan program ini sebanyak %d sesi", ulang);
     
     return 0;
 }
